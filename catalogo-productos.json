@@ -1,0 +1,14 @@
+{
+  "brand": "EducationalLabsHDT",
+  "updated": "2026-09-21",
+  "products": [
+    {
+      "id": "labkit-stem-casa-2026",
+      "sku": "ELHDT-STEM-001",
+      "name": "LabKit STEM en Casa 30 Días",
+      "type": "digital",
+      "price_usd": 17,
+      "status": "published"
+    }
+  ]
+}
